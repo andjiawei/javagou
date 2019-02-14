@@ -1,0 +1,4 @@
+找到项目目录gitbook
+找到目录下的theme.js文件
+找到下面的代码
+将if(m)改成if(false)

@@ -1,0 +1,9 @@
+Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax;
+
+org.apache.ibatis.binding.BindingException
+
+Caused by: java.lang.ClassNotFoundException: Cannot find class: account
+
+Caused by: org.xml.sax.SAXParseException; lineNumber: 19; columnNumber: 28
